@@ -1,0 +1,12 @@
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent-MenuStrip-CSharp.csprojAssemblyReference.cache
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent_MenuStrip_CSharp.mdiForm.resources
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent_MenuStrip_CSharp.Properties.Resources.resources
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent-MenuStrip-CSharp.csproj.GenerateResource.cache
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent-MenuStrip-CSharp.csproj.CoreCompileInputs.cache
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\bin\Debug\MDIParent-MenuStrip-CSharp.exe.config
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\bin\Debug\MDIParent-MenuStrip-CSharp.exe
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\bin\Debug\MDIParent-MenuStrip-CSharp.pdb
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent-MenuStrip-CSharp.exe
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent-MenuStrip-CSharp.pdb
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent_MenuStrip_CSharp.TextEditor.resources
+F:\VPL Assignments\MDIParent-MenuStrip-CSharp\obj\Debug\MDIParent_MenuStrip_CSharp.StopWatch.resources
